@@ -1,16 +1,5 @@
 # Hi there, I'm Abdeljalil 👋
 
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack_Developer-UM6P--YouCode-blueviolet?style=flat-square" alt="Fullstack Developer">
-  <img src="https://img.shields.io/github/followers/AbdeljalilRa?style=social" alt="GitHub Followers">
-  <img src="https://komarev.com/ghpvc/?username=AbdeljalilRa&style=flat-square" alt="Profile Views">
-</p>
-
----
-
 ## 🚀 About Me
 
 I'm a passionate **Full-Stack Web Developer** specializing in crafting clean, scalable, and user-centric applications. My expertise spans both front-end and back-end technologies, enabling me to build dynamic and efficient web solutions.
@@ -31,14 +20,20 @@ I'm a passionate **Full-Stack Web Developer** specializing in crafting clean, sc
 
 ### 🌐 Frontend
 
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css)
 
 ### ⚙️ Backend
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
+
+### 🗃️ Databases
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### 🔨 Tools
 
