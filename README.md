@@ -1,31 +1,22 @@
-# Hi there, I'm Mehdi 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E80956&size=35&center=true&vCenter=true&width=1000&lines=Never+a+master.+Always+a+student.)](https://git.io/typing-svg)
-
-
-
-
-
-
+# Hi there, I'm Abdeljalil 👋
 
 
 ---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack_Developer-UM6P--YouCode-blueviolet?style=flat-square" alt="Fullstack Developer">
-  <img src="https://img.shields.io/github/followers/3ezzy?style=social" alt="GitHub Followers">
-  <img src="https://komarev.com/ghpvc/?username=3ezzy&style=flat-square" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/AbdeljalilRa?style=social" alt="GitHub Followers">
+  <img src="https://komarev.com/ghpvc/?username=AbdeljalilRa&style=flat-square" alt="Profile Views">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Web Developer** at **YouCode | UM6P**, specializing in crafting clean, scalable, and user-centric applications. My expertise spans both front-end and back-end technologies, enabling me to build dynamic and efficient web solutions.
+I'm a passionate **Full-Stack Web Developer** specializing in crafting clean, scalable, and user-centric applications. My expertise spans both front-end and back-end technologies, enabling me to build dynamic and efficient web solutions.
 
 - 🌍 Based in Morocco 🇲🇦
 - 🎓 Learning and teaching new web development trends
-- 🌱 Currently diving deeper into PHP OOP & advanced frameworks
 
 ---
 
@@ -59,16 +50,13 @@ I'm a passionate **Full-Stack Web Developer** at **YouCode | UM6P**, specializin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3ezzy&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdeljalilRa&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ezzy&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdeljalilRa&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
-
-
-
 
 ## 🌐 Connect with Me
 
@@ -84,5 +72,5 @@ I'm a passionate **Full-Stack Web Developer** at **YouCode | UM6P**, specializin
 ---
 
 <p align="center">
-  Made with ❤️ by 3ezzy
+  Made with ❤️ by AbdeljalilRa
 </p>
